@@ -1,6 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/BUBLET?style=social)
-![GitHub followers](https://img.shields.io/github/followers/BUBLET?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=BUBLET&color=blue)
+![Views](https://komarev.com/ghpvc/?username=BUBLET&color=blue)
 
 Personal trash and beyond.
 
