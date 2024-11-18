@@ -14,7 +14,20 @@
 </div>
 
 
-Personal trash and beyond.
+<!-- Wakatime -->
+  <h3>📊 WakaTime</h3> 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@BUBLET&layout=compact&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@BUBLET&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: light)"
+    />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BUBLET&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&langs_count=10" alt="WakaTime Stats" />
+  </picture>
+</div>
 
 ---
 
