@@ -1,15 +1,6 @@
-<div>
-  <!-- Посетители -->
-  <img src="https://komarev.com/ghpvc/?username=BUBLET&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
-  
-  <!-- Обсуждения -->
-  <a href="https://github.com/BUBLET/BUBLET/discussions">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/BUBLET/BUBLET" />
-  </a>&emsp;
-  
-  <!-- Wakatime -->
-  <a href="https://wakatime.com/@bd03e0af-edbb-4189-9aa8-e70d101285ab"><img src="https://wakatime.com/badge/user/bd03e0af-edbb-4189-9aa8-e70d101285ab.svg" alt="Total time coded since Nov 18 2024" /></a>
-</div>
+| ![visitor](https://komarev.com/ghpvc/?username=BUBLET&label=Views&color=orange&style=flat) | [![GitHub Discussions](https://img.shields.io/github/discussions/BUBLET/BUBLET)](https://github.com/BUBLET/BUBLET/discussions) | [![Wakatime](https://wakatime.com/badge/user/bd03e0af-edbb-4189-9aa8-e70d101285ab.svg)](https://wakatime.com/@bd03e0af-edbb-4189-9aa8-e70d101285ab) |
+|:---:|:---:|:---:|
+
 
 Personal trash and beyond.
 
