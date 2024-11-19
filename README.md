@@ -11,7 +11,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/BUBLET?color=blue&style=flat" />
 <br><br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api//?username=bublet&hide=prs,contribs&hide_border=true" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bublet&layout=compact&theme=buefy&hide_border=true&hide=" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api//?username=bublet&hide=contribs&hide_border=true" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bublet&layout=compact&theme=buefy&hide_border=true&hide=Jupyter" /></a> |
 | ------------- | ------------- |
 
 </div>
